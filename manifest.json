@@ -1,0 +1,19 @@
+{
+  "name": "BetRight",
+  "short_name": "BetRight",
+  "theme_color": "",
+  "background_color": "#0F172A",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1770218064-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
